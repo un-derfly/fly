@@ -1,0 +1,34 @@
+{
+  "enabled": false,
+  "autoModeration": false,
+  "detectPrivateMessaging": false,
+  "autoApprove": false,
+  "respondToUsers": false,
+  "respondToAdmins": true,
+  "monitorChat": true,
+  "privateMessagingKeywords": [
+    "insta",
+    "instagram",
+    "snap",
+    "snapchat",
+    "whatsapp",
+    "telegram",
+    "discord",
+    "messenger",
+    "dm",
+    "privé",
+    "pv",
+    "mp",
+    "message privé"
+  ],
+  "blockedWords": [
+    "insulte",
+    "connard",
+    "con",
+    "merde"
+  ],
+  "personality": {
+    "userTone": "cold",
+    "adminTone": "joyful"
+  }
+}
